@@ -21,5 +21,3 @@ resource "aws_db_subnet_group" "FoodieFlowVPC" {
     Name = "FoodieFlowVPC"
   }
 }
-
-#vpc pelo cidr pela aws do jobson

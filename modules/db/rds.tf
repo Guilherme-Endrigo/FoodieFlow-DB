@@ -17,7 +17,3 @@ resource "aws_db_instance" "FoodieFlowRds" {
     Environment = "prod"
   }
 }
-
-# mult_az - multi regiões
-# identifier - aws name
-#ver vpc
